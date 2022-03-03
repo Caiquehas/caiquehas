@@ -1,4 +1,4 @@
-    #Olá! Meu nome é caique
+    #Olá! Eu sou o Caique Silva
     🌱 atualmente trabalho como almoxarife Jr.
     🎓 estudante em Analise e Desenvolvimento de Sistemas
     
